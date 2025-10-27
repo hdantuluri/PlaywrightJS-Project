@@ -1,0 +1,14 @@
+{
+  "name": "PlaywrightJavascript-Project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "trace:view": "playwright show-trace trace.zip"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "papaparse": "^5.4.1"
+  }
+}

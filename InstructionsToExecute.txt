@@ -1,0 +1,7 @@
+To install the build
+
+<command prompt> npm i
+
+To run the tests
+
+<command prompt> npx playwright test --workers=1
