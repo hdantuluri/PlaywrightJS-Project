@@ -1,3 +1,5 @@
+go to the 'tests' directory of the project
+
 To install the build
 
 <command prompt> npm i
